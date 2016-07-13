@@ -1,0 +1,3 @@
+# Supplemental materials for Yarkoni & Westfall (2016)
+
+This repository contains supplemental materials demonstrating how many of the methods described in the main text of *Choosing prediction over explanation in psychology: Lessons from machine learning* (Yarkoni & Westfall, 2016) can be easily applied to one's data using off-the-shelf packages in Python and R. Interactive notebooks in both languages are provided, along with the [diabetes data](http://www4.stat.ncsu.edu/~boos/var.select/diabetes.html) used in all examples.
